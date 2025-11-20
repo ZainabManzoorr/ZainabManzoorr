@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ZainabManzoorr/ZainabManzoorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zainab Manzoor
 
-Here are some ideas to get you started:
+I'm a curious and driven Machine Learning enthusiast with a Software Engineering background. I love building AI solutions, exploring new techniques, and turning complex data into actionable insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by doing , experimenting with projects, and whenever an idea pops into my head I try to convert into reality. 
+
+I like to combine creativity with data to build meaningful projects that can actually be used.  
+
+Tech Stack: Python | Pandas | NumPy | scikit-learn | TensorFlow | Keras | NLP | Time Series | Matplotlib | Seaborn | Streamlit | Flask | Git & GitHub
+
+[LinkedIn](https://linkedin.com/in/ZainabManzoor)   
+Email: zainabmanzoorzoor@gmail.com.com  
+
+Fun Facts
+- Passionate about learning new ML tools and building side projects.  
+- Always curious about AI/ML trends and experimenting with ideas  
+- Believer in consistent growth over burnout
+
