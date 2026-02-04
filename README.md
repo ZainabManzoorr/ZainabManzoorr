@@ -10,7 +10,7 @@ I like to combine creativity with data to build meaningful projects that can act
 
 Tech Stack: Python | Pandas | NumPy | scikit-learn | TensorFlow | Keras | NLP | Time Series | Matplotlib | Seaborn | Streamlit | Flask | Git & GitHub
 
-[LinkedIn](https://linkedin.com/in/ZainabManzoor)   
+[LinkedIn](https://www.linkedin.com/in/zainab-manzoor)   
 zainabmanzoorzoor@gmail.com  
 
 Fun Facts
