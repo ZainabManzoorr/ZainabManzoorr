@@ -13,8 +13,11 @@ I build end-to-end ML systems — from data pipelines and model training to prod
 
 
 🎓 BSc Computer Software Engineering, UMT (2025)
+
 🏆 1st place, Poster Design — GIKI Softcom '25 (10+ universities)
+
 👩‍💼 Former Women in Tech Lead, GDGoC-UMT
+
 🚀 Founder-in-progress — AI fashion tech startup (launching soon)
 
 
@@ -35,7 +38,9 @@ Currently
 
 
 📖 Completing DeepLearning.AI ML Specialisation (Andrew Ng)
+
 🔨 Building open-source ML projects — computer vision · NLP · GenAI APIs
+
 📡 Deploying models as live FastAPI endpoints on Hugging Face Spaces
 
 
@@ -44,4 +49,5 @@ Get in touch
 
 
 💼 LinkedIn: linkedin.com/in/zainab-manzoor
+
 📧 Open to ML Engineer, Data Scientist, and AI Developer roles — on-site, hybrid, or remote
