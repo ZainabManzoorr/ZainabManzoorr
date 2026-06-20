@@ -1,20 +1,47 @@
-## Hi there 👋
+<h1 align="center">Zainab Manzoor</h1>
+<p align="center">
+  ML Engineer · Generative AI · Deep Learning · Python
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/zainab-manzoor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-ML%20%7C%20AI%20%7C%20Data-1D9E75?style=flat"/>
+</p>
 
-I'm Zainab Manzoor
+About
 
-I'm a curious and driven Machine Learning enthusiast with a Software Engineering background. I love building AI solutions, exploring new techniques, and turning complex data into actionable insights.  
+I build end-to-end ML systems — from data pipelines and model training to production API deployment. My focus is Generative AI, computer vision, and human-centered AI design.
 
-I enjoy learning by doing , experimenting with projects, and whenever an idea pops into my head I try to convert into reality. 
 
-I like to combine creativity with data to build meaningful projects that can actually be used.  
+🎓 BSc Computer Software Engineering, UMT (2025)
+🏆 1st place, Poster Design — GIKI Softcom '25 (10+ universities)
+👩‍💼 Former Women in Tech Lead, GDGoC-UMT
+🚀 Founder-in-progress — AI fashion tech startup (launching soon)
 
-Tech Stack: Python | Pandas | NumPy | scikit-learn | TensorFlow | Keras | NLP | Time Series | Matplotlib | Seaborn | Streamlit | Flask | Git & GitHub
 
-[LinkedIn](https://www.linkedin.com/in/zainab-manzoor)   
-zainabmanzoorzoor@gmail.com  
 
-Fun Facts
-- Passionate about learning new ML tools and building side projects.  
-- Always curious about AI/ML trends and experimenting with ideas  
-- Believer in consistent growth over burnout
+Tech stack
 
+DomainToolsML & Deep LearningTensorFlow · Scikit-learn · Keras · OpenCVGenerative AIGenAI APIs · Prompt Engineering · Fine-tuningDataPython · Pandas · NumPy · SQL · EDABackend & DeploymentFastAPI · Supabase · REST APIs · Hugging FaceDev toolsGit · Jupyter · VS Code · Figma
+
+
+GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZainabManzoorr&show_icons=true&hide_border=true&theme=default&hide_title=true&count_private=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainabManzoorr&layout=compact&hide_border=true&theme=default&langs_count=6" height="140"/>
+</p>
+
+Currently
+
+
+📖 Completing DeepLearning.AI ML Specialisation (Andrew Ng)
+🔨 Building open-source ML projects — computer vision · NLP · GenAI APIs
+📡 Deploying models as live FastAPI endpoints on Hugging Face Spaces
+
+
+
+Get in touch
+
+
+💼 LinkedIn: linkedin.com/in/zainab-manzoor
+📧 Open to ML Engineer, Data Scientist, and AI Developer roles — on-site, hybrid, or remote
