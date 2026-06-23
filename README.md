@@ -12,7 +12,7 @@ About
 I build end-to-end ML systems — from data pipelines and model training to production API deployment. My focus is Generative AI, computer vision, and human-centered AI design.
 
 
-🎓 BSc Computer Software Engineering, UMT (2025)
+🎓 BSc Software Engineering, UMT (2025)
 
 🏆 1st place, Poster Design — GIKI Softcom '25 (10+ universities)
 
